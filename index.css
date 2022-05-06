@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 body{
-   background: var(--preta);
+    background: var(--preta);
    font-family: 'Arial', Times, serif;
    color:white;
 }
@@ -16,8 +16,7 @@ header .container{
     display:flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
-    
+    justify-content: space-between;  
 }
 header .logo{
     margin-left: 5px;
@@ -35,8 +34,7 @@ header nav a:hover{
 }
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('Imagens/filmes/Capa/thumb-350-1120961.jpg');
-    height:400px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,0.5)100%), url('../Interface-Netflix/Imagens/filmes/Capa/Capa.jpg');
     background-size:cover;
     display: flex;
     flex-direction: column;
