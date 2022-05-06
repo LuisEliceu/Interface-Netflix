@@ -35,7 +35,7 @@ header nav a:hover{
 }
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('Imagens/filmes/Capa/BatmanArkhamAssault.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('Imagens/filmes/Capa/thumb-350-1120961.jpg');
     height:400px;
     background-size:cover;
     display: flex;
